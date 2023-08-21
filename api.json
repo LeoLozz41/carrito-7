@@ -1,0 +1,97 @@
+[
+    {
+        "precio": 2.00,
+        "id": 1,
+        "titte": "Candi Mix",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/cadi%20mux.jpg"
+
+    },
+
+    {
+        "precio": 200.00,
+        "id": 2,
+        "titte": "Cupido",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/cupido.jpg"
+
+    },
+
+    {
+        "precio": 8.00,
+        "id": 3,
+        "titte": "Glorias",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/glorias.jpg"
+
+    },
+
+    {
+        "precio": 8.00,
+        "id": 4,
+        "titte": "Snickers",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/gomilocas.jpg"
+
+    },
+
+    {
+        "precio": 40.00,
+        "id": 5,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/lucas.jpg"
+
+    },
+
+    {
+        "precio": 12.00,
+        "id": 6,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/pelon.jpg"
+
+    },
+
+    {
+        "precio": 18.00,
+        "id": 7,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/sandia.jpg"
+
+    },
+
+    {
+        "precio": 15.00,
+        "id": 8,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/takis.jpg"
+
+    },
+
+    {
+        "precio": 7.00,
+        "id": 9,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/rockaleta.jpg"
+
+    },
+
+    {
+        "precio": 6.00,
+        "id": 10,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/lucas%20gusano.jpg"
+
+    },
+
+    {
+        "precio": 6.00,
+        "id": 11,
+        "titte": "Swedish",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/lucas%20gusano.jpg"
+
+    },
+    
+    {
+        "precio": 10.00,
+        "id": 12,
+        "titte": "Bubulubu",
+        "thumbnailUrl": "https://leolozano.000webhostapp.com/htdocs/carrito%207/Duces/duvalin.jpg"
+
+    }
+]  
